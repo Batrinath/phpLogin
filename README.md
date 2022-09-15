@@ -1,2 +1,2 @@
 # phpLogin
-template with env file
+template with env file adn bootstrap design used
